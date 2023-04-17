@@ -4,12 +4,16 @@
 
 Création d'un site permettant à ses utilisateurs de se connecter et de publier des posts.
 
+<br>
+
 ## Languages
 
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/html5.png)
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/CSS3.png)
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/javascript.png)
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/php.jpg)
+
+<br>
 
 Projet réalisé par Othman et Florian
 
