@@ -16,7 +16,7 @@ Sur le localhost http://localhost:1337 pour lancer le panel d'administration
 
 <br>
 
-## Languages
+## Languages et BDD
 
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/html5.png)
 ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/CSS3.png)
