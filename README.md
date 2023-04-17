@@ -28,6 +28,6 @@ Sur le localhost http://localhost:1337 pour lancer le panel d'administration
 
 Projet réalisé par Othman et Florian
 
-:point_right:<a href= "https://github.com/florianpoteau">Github de florian</a>
+:point_right:<a href= "https://github.com/florianpoteau">Github de Florian</a>:point_left:
 <br>
-:point_right:<a href="https://github.com/Othman59">Github de Othman</a>
+:point_right:<a href="https://github.com/Othman59">Github de Othman</a>:point_left:
