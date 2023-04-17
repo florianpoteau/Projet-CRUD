@@ -15,4 +15,6 @@ Projet réalisé par Othman et Florian
 
 <br>
 
-<a href= "https://github.com/florianpoteau">Github de florian</a>
+:point_right:<a href= "https://github.com/florianpoteau">Github de florian</a>
+<br>
+:point_right:<a href="https://github.com/Othman59">Github de Othman</a>
