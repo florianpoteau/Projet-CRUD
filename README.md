@@ -1,6 +1,6 @@
 # Projet-CRUD
 
-## Société Bonnefête
+## Société Bonnefête ![Cover](https://github.com/florianpoteau/Projet-CRUD/blob/main/image/sapin.jpg)
 
 Création d'un site permettant à ses utilisateurs de se connecter et de publier des posts.
 
