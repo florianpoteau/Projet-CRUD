@@ -12,7 +12,7 @@ Pour lancer le serveur, tapez en ligne de commande dans le dossier "myApp" "npm 
 
 #### Ouvrir le serveur
 
-Sur le localhost "http://localhost:1337" pour lancer le panel d'administration
+Sur le localhost http://localhost:1337 pour lancer le panel d'administration
 
 <br>
 
